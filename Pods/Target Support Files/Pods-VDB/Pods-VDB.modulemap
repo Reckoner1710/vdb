@@ -1,0 +1,6 @@
+framework module Pods_VDB {
+  umbrella header "Pods-VDB-umbrella.h"
+
+  export *
+  module * { export * }
+}
